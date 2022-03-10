@@ -252,14 +252,14 @@ html {
 
 body {
   font-family: "Jakarta Sans", sans-serif;
-  color: #084b6d;
+  color: #8b0bb3;
   font-size: 1rem;
 }
 
 h1, h2, h3, h4, blockquote {
   font-family: "Young Serif";
   font-weight: normal;
-  color: #084b6d;
+  color: #8b0bb3;
   margin: 0;
 }
 
@@ -353,10 +353,10 @@ a {
 
 /* _baseStyles.scss */
 button {
-  color: #084b6d;
+  color: #8b0bb3;
   background-color: transparent;
   padding: 18px 36px;
-  border: 2px solid #084b6d;
+  border: 2px solid #8b0bb3;
   font-size: 0.8rem;
   font-weight: bold;
   line-height: 1.2rem;
@@ -367,11 +367,11 @@ button {
   /* style the button in the main nav menu to look just like an icon */
 }
 button:hover {
-  background-color: #084b6d;
+  background-color: #8b0bb3;
   color: #fff;
 }
 button:focus {
-  background-color: #084b6d;
+  background-color: #8b0bb3;
   color: #fff;
 }
 button.secondary {
@@ -382,18 +382,18 @@ button.secondary {
 }
 button.secondary:hover {
   background-color: #fff;
-  color: #084b6d;
+  color: #8b0bb3;
 }
 button.secondary:focus {
   background-color: #fff;
-  color: #084b6d;
+  color: #8b0bb3;
 }
 button.solid {
   color: #fff;
-  background-color: #084b6d;
+  background-color: #8b0bb3;
 }
 button.solid:hover {
-  color: #084b6d;
+  color: #8b0bb3;
   background-color: #fff;
 }
 button.menuIcon {
@@ -453,7 +453,7 @@ button.menuIcon:focus {
 .navBar .counter p {
   width: 24px;
   height: 24px;
-  background-color: #084b6d;
+  background-color: #8b0bb3;
   color: #fff;
   border-radius: 50%;
   text-align: center;
@@ -466,7 +466,7 @@ button.menuIcon:focus {
   left: 0;
 }
 .navBar input[type=checkbox]:focus + label {
-  border: 1px dotted #084b6d;
+  border: 1px dotted #8b0bb3;
 }
 .navBar label {
   cursor: pointer;
@@ -475,7 +475,7 @@ button.menuIcon:focus {
   position: fixed;
   top: 0;
   left: -506px;
-  background-color: #084b6d;
+  background-color: #8b0bb3;
   color: #fff;
   border-right: 1px solid #f4fcff;
   padding: 35px 50px;
@@ -582,7 +582,7 @@ header .headerContent .contentContainer {
 }
 
 footer {
-  background-color: #084b6d;
+  background-color: #8b0bb3;
   color: #fff;
   padding: 90px 0 50px 0;
 }
@@ -726,38 +726,38 @@ textarea {
 }
 input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
   font-size: 0.8rem;
-  color: #084b6d;
+  color: #8b0bb3;
   opacity: 1;
   line-height: 1.2rem;
 }
 input::-moz-placeholder, textarea::-moz-placeholder {
   font-size: 0.8rem;
-  color: #084b6d;
+  color: #8b0bb3;
   opacity: 1;
   line-height: 1.2rem;
 }
 input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   font-size: 0.8rem;
-  color: #084b6d;
+  color: #8b0bb3;
   opacity: 1;
   line-height: 1.2rem;
 }
 input::-ms-input-placeholder, textarea::-ms-input-placeholder {
   font-size: 0.8rem;
-  color: #084b6d;
+  color: #8b0bb3;
   opacity: 1;
   line-height: 1.2rem;
 }
 input::placeholder,
 textarea::placeholder {
   font-size: 0.8rem;
-  color: #084b6d;
+  color: #8b0bb3;
   opacity: 1;
   line-height: 1.2rem;
 }
 input:focus,
 textarea:focus {
-  border-bottom: 1px solid #084b6d;
+  border-bottom: 1px solid #8b0bb3;
 }
 
 input {
@@ -773,7 +773,7 @@ textarea {
 select {
   display: block;
   font-family: "Jakarta Sans";
-  color: #084b6d;
+  color: #8b0bb3;
   padding: 0 0 10px 0;
   border: none;
   border-bottom: 1px solid #eee;
